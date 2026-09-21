@@ -6,7 +6,15 @@ Links checked September 2026. Cost notes are honest: "free" means the tool is fr
 
 ## Built by me
 
-Ten Shopify skills in [`/skills`](skills/). Drop a folder into your agent's skills directory and connect the Shopify MCP.
+Thirteen skills in [`/skills`](skills/). Drop a folder into your agent's skills directory. The three site skills need nothing but web search; the ten Shopify skills need the Shopify MCP.
+
+**Site, content and services**
+
+- [ai-use-case-scout](skills/ai-use-case-scout/SKILL.md): Find, vet and rank real AI use cases from the open web twice a week, and hand back three worth building or writing about, with sources
+- [build-log-issue-writer](skills/build-log-issue-writer/SKILL.md): Turn build notes into a site teardown, a newsletter issue and a week of social posts in one pass, in a plain, unhedged voice with the failures left in
+- [automation-map-intake](skills/automation-map-intake/SKILL.md): Run a structured discovery interview with a small business and turn the answers into a ranked automation blueprint with effort, payoff and build order
+
+**Shopify**
 
 - [shopify-cro-agent](skills/shopify-cro-agent/SKILL.md): Walk Shopify funnel from PDP to checkout, pinpoint drop-offs, and suggest prioritized fixes
 - [shopify-cross-sell-recommender](skills/shopify-cross-sell-recommender/SKILL.md): Build PDP-ready cross-sell recommendations from Shopify co-purchase data
